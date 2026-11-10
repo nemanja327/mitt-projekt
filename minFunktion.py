@@ -3,3 +3,5 @@ def min_funktion():
 
 # Anropa funktionen
 min_funktion()
+
+1234567
